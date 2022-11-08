@@ -14,6 +14,7 @@
 
 ![Netflix Clone Desktop Demo](.Netflix-Clone
 /readme-images/web1.png "Desktop Demo")
+
 ![Netflix Clone Desktop Demo](.Netflix-Clone
 /readme-images/web2.png "Desktop Demo")
 
