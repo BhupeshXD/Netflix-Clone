@@ -6,12 +6,8 @@
 
   In this project, I have created Responsive Netflix Clone, The project is built using HTML5, CSS3 & JavaScript.
 
-  <a href=""><strong>➥ Live Demo</strong></a>
+  <a href="https://bhupeshxd.github.io/Netflix-Clone/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
-### Demo Screeshots
-
-![Netflix Clone Desktop Demo](./readme-images/web1.png "Desktop Demo")
-![Netflix Clone Desktop Demo](./readme-images/web2.png "Desktop Demo")
-
+If you face any issue while going this project live just on details and visit site its just a demo idk why warnings are coming.
