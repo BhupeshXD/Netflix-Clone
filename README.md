@@ -6,7 +6,7 @@
 
   In this project, I have created Responsive Netflix Clone, The project is built using HTML5, CSS3 & JavaScript.
 
-  <a href="netflix-clonewebite.netlify.app/"><strong>➥ Live Demo</strong></a>
+  <a href="https://netflix-clonewebite.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
